@@ -150,3 +150,11 @@ body {
 .text h1 {
   font-size: 1.4em;
 }
+
+p {
+color: #8b6a60;
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+}
